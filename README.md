@@ -1,4 +1,4 @@
 # games-apps
 
-Game Projects:
+# Game Projects:
 - Rock Paper Scissors game
